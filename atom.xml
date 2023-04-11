@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RealHack3r-D.github.io</id>
     <title>Hack3r-D 的个人博客</title>
-    <updated>2023-04-06T14:33:24.626Z</updated>
+    <updated>2023-04-11T13:36:49.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://RealHack3r-D.github.io"/>
     <link rel="self" href="https://RealHack3r-D.github.io/atom.xml"/>
@@ -10,4 +10,16 @@
     <logo>https://RealHack3r-D.github.io/images/avatar.png</logo>
     <icon>https://RealHack3r-D.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Hack3r-D 的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[二模之后，毕业之前]]></title>
+        <id>https://RealHack3r-D.github.io/post/er-mo-zhi-hou-bi-ye-zhi-qian/</id>
+        <link href="https://RealHack3r-D.github.io/post/er-mo-zhi-hou-bi-ye-zhi-qian/">
+        </link>
+        <updated>2023-04-11T13:28:32.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>我相信即使面对重要的人生抉择，我也有足够的勇气去冒险，因为每个选择都有无限的可能性让我去发现和追求。</p>
+</blockquote>
+<p><s>开头这句是 <code>ChatGPT</code> 说的。</s></p>
+]]></content>
+    </entry>
 </feed>
