@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RealHack3r-D.github.io</id>
     <title>Hack3r-D 的个人博客</title>
-    <updated>2023-05-03T05:13:05.111Z</updated>
+    <updated>2023-05-23T12:22:47.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://RealHack3r-D.github.io"/>
     <link rel="self" href="https://RealHack3r-D.github.io/atom.xml"/>
@@ -10,4 +10,14 @@
     <logo>https://RealHack3r-D.github.io/images/avatar.png</logo>
     <icon>https://RealHack3r-D.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Hack3r-D 的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[Back to Basics #1]]></title>
+        <id>https://RealHack3r-D.github.io/post/back-to-basics-1/</id>
+        <link href="https://RealHack3r-D.github.io/post/back-to-basics-1/">
+        </link>
+        <updated>2023-05-23T11:58:14.000Z</updated>
+        <content type="html"><![CDATA[<p>日期：5 月 23 日 ——</p>
+<h3 id="新的开始">新的开始</h3>
+]]></content>
+    </entry>
 </feed>
