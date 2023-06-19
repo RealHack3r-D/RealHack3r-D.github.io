@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RealHack3r-D.github.io</id>
     <title>Hack3r-D 的个人博客</title>
-    <updated>2023-06-19T07:45:21.474Z</updated>
+    <updated>2023-06-19T08:32:04.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://RealHack3r-D.github.io"/>
     <link rel="self" href="https://RealHack3r-D.github.io/atom.xml"/>
@@ -10,4 +10,29 @@
     <logo>https://RealHack3r-D.github.io/images/avatar.png</logo>
     <icon>https://RealHack3r-D.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Hack3r-D 的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[Getting to Know Me 一些基本常识]]></title>
+        <id>https://RealHack3r-D.github.io/post/getting-to-know-me-yi-xie-ji-ben-chang-shi/</id>
+        <link href="https://RealHack3r-D.github.io/post/getting-to-know-me-yi-xie-ji-ben-chang-shi/">
+        </link>
+        <updated>2023-06-19T07:46:25.000Z</updated>
+        <content type="html"><![CDATA[<p>大概是一些关于  <code>DMB</code> 的常识。</p>
+<p><em>因为技术原因大部分图片经过图床压缩画质感人。</em></p>
+<h4 id="关于感情">关于感情</h4>
+<ul>
+<li>DMB 的感情史可以简单概括为<code>LCHYXSY</code>，值得一提的是三次都是<strong>单相思</strong>。</li>
+<li>另一种常见的计数方式是 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>5</mn></mrow><annotation encoding="application/x-tex">5</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">5</span></span></span></span> 位，但这两位中一位被当作友谊，另一位被当作脑抽。<br>
+<img src="https://i.postimg.cc/gjHMZjqm/Wechat-IMG292.jpg" alt="" loading="lazy"></li>
+<li>DMB <strong>仍</strong>是小舔狗。</li>
+</ul>
+<figure data-type="image" tabindex="1"><img src="https://i.postimg.cc/8Pgf4fHZ/image.jpg" alt="" loading="lazy"></figure>
+<h4 id="关于网络抽象">关于网络抽象</h4>
+<ul>
+<li>DMB 超级喜欢差分，某些场合下差分是 DMB 的代称。</li>
+<li>DMB，有时，发，消息，方式，很，奇怪！这，多半，是，受，LXL，的，影响！<br>
+<img src="https://i.postimg.cc/TYTgPCKz/IMG-3478.jpg" alt="" loading="lazy"></li>
+<li>DMB 有时会发表一些极端逆天的言论，这与其 OIer 的身份强相关，毕竟内卷严重的圈子都很浮躁。</li>
+</ul>
+]]></content>
+    </entry>
 </feed>
