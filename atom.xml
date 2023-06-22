@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RealHack3r-D.github.io</id>
     <title>Hack3r-D 的个人博客</title>
-    <updated>2023-06-19T08:44:32.257Z</updated>
+    <updated>2023-06-22T06:25:35.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://RealHack3r-D.github.io"/>
     <link rel="self" href="https://RealHack3r-D.github.io/atom.xml"/>
@@ -11,12 +11,30 @@
     <icon>https://RealHack3r-D.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Hack3r-D 的个人博客</rights>
     <entry>
+        <title type="html"><![CDATA[Daily Gems #1 新的开始]]></title>
+        <id>https://RealHack3r-D.github.io/post/daily-gems-1-xin-de-kai-shi/</id>
+        <link href="https://RealHack3r-D.github.io/post/daily-gems-1-xin-de-kai-shi/">
+        </link>
+        <updated>2023-06-21T08:41:51.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="622">6/22</h4>
+<p>8:00 被母上叫起床。<br>
+早饭罗森解决，<s>是连续喝阿华田的第 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>4</mn></mrow><annotation encoding="application/x-tex">4</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">4</span></span></span></span> 天</s>。<br>
+现在投的五个学校就只有 shs 没消息了。</p>
+<p>11:00 和 xzx 看夏威夷战神的新电影。<br>
+xzx 屡次被女朋友拒绝后终于想起了他的小男朋友。</p>
+<p>13:30 和 xzx 恰面。<br>
+怎么有人一提到 xzx 就条件反射 pny 啊。</p>
+<p>14:10 在星巴克<s>看一堆小情侣谈恋爱</s>。<br>
+随便刷了点自招卷，现在除了数学英语全面开摆。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Getting to Know Me 一些基本常识]]></title>
-        <id>https://RealHack3r-D.github.io/post/getting-to-know-me-yi-xie-ji-ben-chang-shi/</id>
-        <link href="https://RealHack3r-D.github.io/post/getting-to-know-me-yi-xie-ji-ben-chang-shi/">
+        <id>https://RealHack3r-D.github.io/post/G2KM/</id>
+        <link href="https://RealHack3r-D.github.io/post/G2KM/">
         </link>
         <updated>2023-06-19T07:46:25.000Z</updated>
-        <content type="html"><![CDATA[<p>大概是一些关于  <code>DMB</code> 的常识。</p>
+        <content type="html"><![CDATA[<p>大概是一些关于  DMB 的常识。</p>
 <p><em>因为技术原因大部分图片经过图床压缩画质感人。</em></p>
 <h4 id="关于感情">关于感情</h4>
 <ul>
@@ -33,6 +51,7 @@
 <img src="https://i.postimg.cc/TYTgPCKz/IMG-3478.jpg" alt="" loading="lazy"></li>
 <li>DMB 有时会发表一些极端逆天的言论，这与其 OIer 的身份强相关，毕竟内卷严重的圈子都很浮躁。</li>
 </ul>
+<p>未完待续。</p>
 ]]></content>
     </entry>
 </feed>
