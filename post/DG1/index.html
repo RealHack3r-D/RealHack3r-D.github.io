@@ -1,22 +1,80 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://RealHack3r-D.github.io</id>
-    <title>Hack3r-D 的个人博客</title>
-    <updated>2023-06-27T13:19:38.987Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://RealHack3r-D.github.io"/>
-    <link rel="self" href="https://RealHack3r-D.github.io/atom.xml"/>
-    <subtitle>初三党/半退役 OIer</subtitle>
-    <logo>https://RealHack3r-D.github.io/images/avatar.png</logo>
-    <icon>https://RealHack3r-D.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2023, Hack3r-D 的个人博客</rights>
-    <entry>
-        <title type="html"><![CDATA[Daily Gems #1 新的开始]]></title>
-        <id>https://RealHack3r-D.github.io/post/DG1/</id>
-        <link href="https://RealHack3r-D.github.io/post/DG1/">
-        </link>
-        <updated>2023-06-27T12:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="一些说明">一些说明</h3>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+<meta charset="utf-8" >
+
+<title>Daily Gems #1 新的开始 | Hack3r-D 的个人博客</title>
+<meta name="description" content="初三党/半退役 OIer">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://RealHack3r-D.github.io/favicon.ico?v=1687871975836">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://RealHack3r-D.github.io/styles/main.css">
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
+  </head>
+  <body>
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://RealHack3r-D.github.io">
+        <img class="avatar" src="https://RealHack3r-D.github.io/images/avatar.png?v=1687871975836" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://RealHack3r-D.github.io">
+        <h1 class="site-title">Hack3r-D 的个人博客</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="https://RealHack3r-D.github.io" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="https://RealHack3r-D.github.io/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">Daily Gems #1 新的开始</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2023-06-27</span>
+            
+          </div>
+          <div class="post-content">
+            <h3 id="一些说明">一些说明</h3>
 <p>大概是 6/19 到 6/30 的生活记录。</p>
 <p>实际上 6/27 才开始写，所以往前的内容全凭回忆。</p>
 <p>没补的日子暂时只写了马上想到的几件事。</p>
@@ -121,6 +179,54 @@
 <li>不能撞公开题库的题(比如上文提到的 [JFoi2022] 毕业，别离](https://www.luogu.com.cn/problem/T346093) 实际上与 CF 上的 <a href="https://codeforces.com/problemset/problem/1420/B">Rock and Lever</a> 并无本质区别~~，当然这是 wkc 的锅~~)</li>
 </ul>
 <p>然后就开始补这篇博客了。</p>
-]]></content>
-    </entry>
-</feed>
+
+          </div>
+        </div>
+
+        
+      </div>
+
+      
+
+      <div class="site-footer">
+  <div class="slogan">初三党/半退役 OIer</div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+        <a href="https://www.zhihu.com/people/shen-shi-wo-35" target="_blank">
+          <i class="fab fa-zhihu"></i>
+        </a>
+      
+    
+      
+    
+  </div>
+   | <a class="rss" href="https://RealHack3r-D.github.io/atom.xml" target="_blank">RSS</a>
+</div>
+
+
+    </div>
+    <script type="application/javascript">
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+  </body>
+</html>
